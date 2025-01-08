@@ -1,1 +1,1 @@
-# DATABASE-PROJECT
+# RAG formedical purposes
