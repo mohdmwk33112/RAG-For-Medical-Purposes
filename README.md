@@ -1,1 +1,1 @@
-# RAG formedical purposes
+# RAG for medical purposes
